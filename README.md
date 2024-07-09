@@ -92,20 +92,20 @@ new_model_random.fit(x_train, y_train)
 ## Results
 
 - **Logistic Regression**:
-  - Training Accuracy: [Provide Score]
-  - Test Accuracy: [Provide Score]
+  - Training Accuracy: 0.814663951120163
+  - Test Accuracy: 0.7886178861788617
 
 - **Random Forest Classifier**:
-  - Training Accuracy: [Provide Score]
-  - Test Accuracy: [Provide Score]
+  - Training Accuracy: 0.8167006109979633
+  - Test Accuracy: 0.7886178861788617
 
 - **AdaBoost Classifier**:
-  - Training Accuracy: [Provide Score]
-  - Test Accuracy: [Provide Score]
+  - Training Accuracy: 1.0
+  - Test Accuracy: 0.7560975609756098
 
 - **XGBoost Classifier**:
-  - Training Accuracy: [Provide Score]
-  - Test Accuracy: [Provide Score]
+  - Training Accuracy: 0.814663951120163
+  - Test Accuracy: 0.7886178861788617
 
 ## Installation
 
